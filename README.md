@@ -31,9 +31,11 @@ BookHeaven is a full-stack online bookstore web application built with **React**
 
 🛡 Authentication
 
-JWT based authentication
-Tokens stored in localStorage
-Auth protected routes on backend
+JWT based authentication for secure access
+
+Tokens stored in localStorage on the client
+
+Backend protected routes verify tokens before allowing access
 
 
 ### 👨‍💻 Admin
@@ -41,7 +43,7 @@ Auth protected routes on backend
 - View all orders
 - Update order statuses
 - View user profile from orders
-- Delete user accounts by username
+- Update book in the store
 
 
 🛠 Tech Stack
