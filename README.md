@@ -61,5 +61,4 @@ MongoDB (Mongoose)
 
 Other Tools:
 Axios for API calls
-Postman
-
+Postman for API testing
