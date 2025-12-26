@@ -42,23 +42,24 @@ Auth protected routes on backend
 - View user profile from orders
 - Delete user accounts by username
 
----
 
 🛠 Tech Stack
 
 Frontend:
-React
-Redux
-Tailwind CSS
+- React
+- Redux
+- Tailwind CSS
 
 Backend:
-Node.js
-Express
-JWT Authentication
+- Node.js
+- Express
+- JWT Authentication
 
 Database:
-MongoDB (Mongoose)
+- MongoDB (Mongoose)
 
 Other Tools:
-Axios for API calls
-Postman for API testing
+- Axios for API calls
+- Postman for API testing
+
+  ---
