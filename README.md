@@ -1,3 +1,14 @@
+🚀 Backend Setup
+Backend API will run at: 
+https://bookheaven-04ur.onrender.com
+
+🚀 Frontend Setup
+React app will run at:
+https://tubular-fox-25dab8.netlify.app/
+
+
+
+
 # 📚 BookHeaven — Online Bookstore
 
 BookHeaven is a full-stack online bookstore web application built with **React**, **Redux**, **Node.js**, **Express**, and **MongoDB**. It allows users to browse books, manage their cart, place orders, view order history, and for admins to manage books and orders.
@@ -53,10 +64,3 @@ Axios for API calls
 Postman
 ---
 
-🚀 Backend Setup
-Backend API will run at: 
-https://bookheaven-04ur.onrender.com
-
-🚀 Frontend Setup
-React app will run at:
-https://tubular-fox-25dab8.netlify.app/
